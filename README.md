@@ -3,7 +3,7 @@ Python based Ewald summation code for evaluating stray magnetic field of finite 
 
 Packages required:  numpy, scipy.special, scipy.integrate , pandas.
 
-All relevant functions are in core.py file. Executable file is Ewald_mag.py.
+All relevant functions needed for ewald summation are in core.py file. Executable file is Ewald_mag.py.
 To run code, put init python file, core.py and Ewald_mag.py in same folder.
 
 To run code, run "python Ewald_mag.py" on terminal in working directory. 
